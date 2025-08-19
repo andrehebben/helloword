@@ -1,5 +1,5 @@
 {
-  "name": "andrehebben/your-app",
+  "name": "andrehebben/helloworld",
   "require": {
     "php": "^8.2",
     "ext-json": "*"
